@@ -26,4 +26,4 @@ I am 27 years old and last six years I have been working as SAP developer, worki
 ## Languages
 * English C1
 * German B1
-* Russian Native
+* Russian Native 
