@@ -18,3 +18,12 @@ I am 27 years old and last six years I have been working as SAP developer, worki
 
 ## **Experiece**
 * 6,5 years as SAP Developer in Asapio CIS. Last position: Senior Deveoper (Team Lead)
+
+## **Education**
+* **2010 - 2015** : Voronezh State University, Faculty of Computer Science, Specialist
+* **2017** : Udacity Frontend-developer Nanodegree
+
+## Languages
+* English C1
+* German B1
+* Russian Native
